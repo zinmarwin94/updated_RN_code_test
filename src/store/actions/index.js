@@ -1,0 +1,1 @@
+export { setPopularMoviesData } from "./movies"
